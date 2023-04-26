@@ -15,7 +15,7 @@
           <a class="nav-link" aria-current="page" href="#aboutpage">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#testimonials">Testimonials</a>
+          <a class="nav-link" aria-current="page" href="#testimonials">Testimonials</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="#skills">Skills</a>

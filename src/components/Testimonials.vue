@@ -2,7 +2,7 @@
   <section id="testimonials">
   <div class="testimonials2">TESTIMONIALS</div>
 
-  <div class="container mx-auto ">
+  <div class="container mx-auto g-5">
     <div v-for="comments in Testimonials" :key="comments.id" class ="card ">
 
       <div class= "image">
@@ -100,6 +100,7 @@ export default {
   position: absolute;
   left: 0px;
   top: 0px;
+  padding-bottom:6% ;
   height: 391px;
   display: flex;
   align-items: center;

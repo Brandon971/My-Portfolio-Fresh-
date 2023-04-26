@@ -38,8 +38,7 @@
     </div>
   </div>
    <div class="card">
-    <h3 class="title">NODE.JS</h3>
-    <img src="https://i.postimg.cc/HWSCc1kX/pngwing-com-5.png" alt="">
+    <img src="https://i.postimg.cc/9FzbVfXR/pngwing-com-1.png" alt="">
     <div class="circle">
       <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
       <circle class="stroke" cx="60" cy="60" r="50"/>
@@ -99,7 +98,7 @@ export default {
   height: 300px;
   width: auto;
   display: flex;
-  margin-top: 2%;
+  padding-top: 3%;
   margin-left: 7%;
 }
 
@@ -193,7 +192,8 @@ svg {
 }
 
 .skillsTitle{
+    padding-top: 10%;
     color: #2e3033;
-    font:800 120px "Poppins", sans-serif;
+    font:800 150px "Poppins", sans-serif;
 }
 </style>
