@@ -27,7 +27,7 @@
           <a class="nav-link"  aria-current="page" href="#projects">Projects</a>
         </li>
           <li class="nav-item">
-          <a class="nav-link ">Contact Me</a>
+          <a class="nav-link" aria-current="page" href="#contact">Contact Me</a>
         </li>
       </ul>
     </div>
