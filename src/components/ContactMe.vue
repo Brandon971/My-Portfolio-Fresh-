@@ -39,7 +39,6 @@
               <input class="app-form-control" required="required" data-error="message is required" name="message" placeholder="MESSAGE">
             </div>
             <div class="app-form-group buttons">
-              <button class="app-form-button ">CANCEL</button>
               <button class="app-form-button" type="submit">SEND</button>
             </div>
           </div>
@@ -201,7 +200,7 @@ body, button, input {
   bottom: -10px;
   width: 25px;
   height: 4px;
-  background: #ce3838;
+  background: #ff0000;
 }
 
 .app-contact {

@@ -83,7 +83,7 @@ export default {
 .resumeTitle{
     padding-top:4%;
     color: #2e3033;
-    font:800 150px "Poppins", sans-serif;
+    font:800 120px "Poppins", sans-serif;
 }
 body{
     background-color: #f7f7f7;
