@@ -21,7 +21,8 @@
             <span>CONTACT</span>
             <span class="me">ME</span>
           </div>
-          <div class="app-contact">CONTACT INFO : +27 63 196 8544</div>
+          <strong class="app-contact">CONTACT INFO : +27 63 196 8544</strong>
+          <strong class="app-address">ADDRESS : MITCHELLS PLAIN , CAPE TOWN</strong>
         </div>
         <form class="screen-body-item"   action="https://formspree.io/f/xayzaggd"
   method="POST">
@@ -205,10 +206,13 @@ body, button, input {
 
 .app-contact {
   margin-top: auto;
-  font-size: 8px;
+  font-size: 12px;
   color: #888;
 }
-
+.app-address {
+  font-size: 12px;
+  color: #888;
+}
 .app-form-group {
   margin-bottom: 15px;
 }
