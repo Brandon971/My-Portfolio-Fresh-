@@ -50,7 +50,7 @@
   <li>
     <a href="https://www.linkedin.com/in/brandon-swinton-a14088235/"  target="_blank" class="linkedin"><i class="fab fa-linkedin-in icon"></i></a></li>
   <li>
-    <a href="https://github.com/Brandon971"  target="_blank" class="github"><i class="fab fa-github icon"></i></a></li>
+    <a href="https://github.com/Brandon971/My-Portfolio-Fresh-"  target="_blank" class="github"><i class="fab fa-github icon"></i></a></li>
             </ul>
           </div>
         </div>

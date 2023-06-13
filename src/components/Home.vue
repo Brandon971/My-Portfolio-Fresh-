@@ -4,7 +4,7 @@
     <div class="row">
   <div class="col-4">
     
-   <img class="brandon-swinton-1" src="https://i.postimg.cc/ryC8s1gC/BRANDON-SWINTON.png"/>
+   <img class="brandon-swinton-1" src="https://i.postimg.cc/7hHcW3NX/BRANDON.png"/>
 
   <div class="hello2">Hello !</div>
     <div class="Subtext">MY NAME IS </div>
